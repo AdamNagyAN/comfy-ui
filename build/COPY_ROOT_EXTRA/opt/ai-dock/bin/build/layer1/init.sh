@@ -4,11 +4,18 @@
 
 # Packages are installed after nodes so we can fix them...
 PYTHON_PACKAGES=(
-    "opencv-python==4.7.0.72"
+    "insightface==0.7.3"
+    "onnx>=1.14.0"
+    "onnxruntime-gpu"
+    "opencv-python>=4.7.0.72"
+    "numpy"
+    "segment_anything"
 )
 
 NODES=(
-    #"https://github.com/ltdrdata/ComfyUI-Manager"
+    "https://github.com/ltdrdata/ComfyUI-Manager"
+    "https://github.com/cubiq/ComfyUI_IPAdapter_plus"
+    "https://github.com/Gourieff/comfyui-reactor-node"
 )
 
 CHECKPOINT_MODELS=(
