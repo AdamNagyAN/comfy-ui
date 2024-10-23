@@ -8,7 +8,7 @@
 
 PYTHON_PACKAGES=(
     #"opencv-python==4.7.0.72"
-    "insightface"
+    "insightface==0.7.3"
 )
 
 NODES=(
