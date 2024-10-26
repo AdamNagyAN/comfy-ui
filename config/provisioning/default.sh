@@ -38,6 +38,7 @@ PIP_PACKAGES=(
     "numpy<2"
     "dill"
     "matplotlib"
+    "yacs"
 )
 
 
