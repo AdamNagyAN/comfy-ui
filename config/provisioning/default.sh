@@ -38,7 +38,13 @@ PIP_PACKAGES=(
     "numpy<2"
     "dill"
     "matplotlib"
-    "yacs"
+    "diffusers"
+    "accelerate"
+    "clip_interrogator>=0.6.0"
+    "lark-parser"
+    "onnxruntime"
+    "sentencepiece"
+    "spandrel"
 )
 
 
