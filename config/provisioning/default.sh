@@ -9,6 +9,13 @@
 PYTHON_PACKAGES=(
     #"opencv-python==4.7.0.72"
     "insightface==0.7.3"
+    "albumentations>=1.4.16"
+    "insightface==0.7.3"
+    "onnx>=1.14.0"
+    "opencv-python>=4.7.0.72"
+    "numpy"
+    "segment_anything"
+    "ultralytics"
 )
 
 NODES=(
