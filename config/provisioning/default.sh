@@ -27,10 +27,17 @@ PIP_PACKAGES=(
     "insightface==0.7.3"
     "onnx>=1.14.0"
     "opencv-python>=4.7.0.72"
-    "numpy"
     "segment_anything"
     "ultralytics"
     "piexif"
+    "scikit-image"
+    "transformers"
+    "opencv-python-headless"
+    "GitPython"
+    "scipy>=1.11.4"
+    "numpy<2"
+    "dill"
+    "matplotlib"
 )
 
 
