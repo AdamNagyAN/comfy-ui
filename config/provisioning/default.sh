@@ -45,6 +45,7 @@ PIP_PACKAGES=(
     "onnxruntime"
     "sentencepiece"
     "spandrel"
+    "simple_lama_inpainting"
 )
 
 
