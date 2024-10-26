@@ -30,6 +30,7 @@ PIP_PACKAGES=(
     "numpy"
     "segment_anything"
     "ultralytics"
+    "piexif"
 )
 
 
