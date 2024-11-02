@@ -22,30 +22,14 @@ APT_PACKAGES=(
 
 PIP_PACKAGES=(
     #"opencv-python==4.7.0.72"
-    "insightface==0.7.3"
-    "albumentations>=1.4.16"
-    "insightface==0.7.3"
-    "onnx>=1.14.0"
-    "opencv-python>=4.7.0.72"
-    "segment_anything"
-    "ultralytics"
-    "piexif"
-    "scikit-image"
-    "transformers"
-    "opencv-python-headless"
-    "GitPython"
-    "scipy>=1.11.4"
-    "numpy<2"
-    "dill"
-    "matplotlib"
-    "diffusers"
     "accelerate"
     "clip_interrogator>=0.6.0"
     "lark-parser"
     "onnxruntime"
     "sentencepiece"
+    "opencv-python"
     "spandrel"
-    "simple_lama_inpainting"
+    "numpy<2"
 )
 
 
